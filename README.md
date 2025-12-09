@@ -38,7 +38,7 @@ This project uses two datasets that are linked using the **EmployeeID** column.
 
 ### Employee.csv
 
-| Property | Value |
+| Item | Details |
 |----------|--------|
 | Number of Rows | 1,470 |
 | Number of Columns | 23 |
@@ -63,7 +63,7 @@ This project uses two datasets that are linked using the **EmployeeID** column.
 
 ### PerformanceRating.csv
 
-| Property | Value |
+| Item | Details |
 |----------|--------|
 | Number of Rows | 6,709 |
 | Number of Columns | 11 |
