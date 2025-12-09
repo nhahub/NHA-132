@@ -115,7 +115,7 @@ This project uses two datasets that are linked using the **EmployeeID** column.
   - `.pdf/`  → has the questions that have been answered in the analysis  can be viewed directly on **GitHub**
 
 
-- **[05_.visualization](05_.visualization/)**  
+- **[05_visualization](05_.visualization/)**  
   Contains the Final Dashboard
   
  
